@@ -1,6 +1,3 @@
-def getName():
-	return "Cook, John"
-	
 class MyTree():
     def __init__(self, data):
         # Initialize this node, and store data in it

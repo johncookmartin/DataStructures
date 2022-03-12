@@ -1,8 +1,5 @@
 import heapq
 
-def getName():
-	return "Cook, John"
-
 class MyHuffman():
     def __init__(self):
         # Initialize the Huffman tree

@@ -1,6 +1,3 @@
-def getName():
-	return "Cook, John"
-
 class MyTrie:
     def __init__(self):
         # Initialize the trie node as needed

@@ -1,7 +1,3 @@
-# You may not use dicts.
-def getName():
-	return "Cook, John"
-	
 class MyHashTable():
     def __init__(self, size, hash1):
         # Create an empty hashtable with the size given, and stores the function hash1
